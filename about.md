@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
+I am a second year biochemistry student at Cal Poly San Luis Obispo, who is on the premed track. I plan to pursue a career in Medicine. I currrently have a job at Hometown Pharmacy, where I am an assitant to a technician. 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to bake, although I am not the best at it. I started baking since I was 12, started out with cookies and then gradually moved to baking a tres leches cake for my parents. 
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[armcdona@calpoly.edu](mailto:eosoriog@calpoly.edu) 
