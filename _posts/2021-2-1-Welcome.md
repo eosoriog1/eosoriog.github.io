@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-A second year biochemistry major who is planning to pursue a career in medicine. 
+Originally from Santa Maria, just 30 minutes south from San Luis Obispo. I volunteered at Marian Regional Hospital in Santa Maria, which influenced me a lot to pursue medicine.
