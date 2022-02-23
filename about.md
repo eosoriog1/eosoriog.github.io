@@ -10,4 +10,4 @@ I love to bake, although I am not the best at it. I started baking since I was 1
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:eosoriog@calpoly.edu) 
+[osorioestela25@gmail.com](mailto:osorioestela25@gmail.com) 
